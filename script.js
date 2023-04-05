@@ -25,7 +25,7 @@ const music_list = [
         img : 'https://ia802304.us.archive.org/33/items/logo_20210825_20210825_2226/21.jpeg',
         name : 'radio',
         artist : 'main radio',
-        music : 'http://live.mp3quran.net:8006'
+        music : 'http://live.mp3quran.net:8006.mp3'
     },
     {
         img : 'https://ia802304.us.archive.org/33/items/logo_20210825_20210825_2226/21.jpeg',
